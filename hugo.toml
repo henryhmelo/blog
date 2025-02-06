@@ -1,0 +1,4 @@
+baseURL = 'https://henzzle.com/'
+languageCode = 'en-us'
+title = 'Henzzle'
+theme = 'nostyleplease'

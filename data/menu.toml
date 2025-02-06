@@ -1,0 +1,10 @@
+
+[[entries]]
+title = "all posts"
+
+  [entries.post_list]
+  show_more = false
+  show_more_text = "See archive..."
+  show_more_url = "posts"
+
+
