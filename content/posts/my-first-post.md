@@ -15,4 +15,4 @@ Testing this current layout and how it shows in the website
 
 testing testing
 
-![test image](/darkstar1_single.jpg 'this is a test image')
+This is a test paragraph, let's see how it looks when I try to write it like this and how far the line goes in the website, just line should wrap around and go to the next line.
