@@ -14,3 +14,5 @@ title = 'My First Post'
 Testing this current layout and how it shows in the website
 
 testing testing
+
+![test image](/darkstar1_single.jpg 'this is a test image')
