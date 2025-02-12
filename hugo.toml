@@ -1,4 +1,4 @@
 baseURL = 'https://henryhmelo.github.io/'
 languageCode = 'en-us'
-title = 'Henzzle'
+title = "Henzzle's Blog"
 theme = 'nostyleplease'
